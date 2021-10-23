@@ -1,1 +1,10 @@
 /* You can add global styles to this file, and also import other style files */
+@import "bulma/css/bulma.min.css";
+
+body,
+* {
+  box-sizing: border-box;
+  line-height: 1.5;
+  color: #fff;
+  background-color: #000;
+}
